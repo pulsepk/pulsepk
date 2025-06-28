@@ -30,4 +30,9 @@
 
 </p><br><br>
 
+
+
 <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/pulsepk/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="pulsepk" /></p>
+
+# Discord
+<a href='https://discord.gg/c6gXmtEf3H'>![Discord Banner 2](https://discordapp.com/api/guilds/1091429412152561758/widget.png?style=banner2)</a>
